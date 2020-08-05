@@ -7,6 +7,9 @@
     <img align="left" alt="Haneul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 
+<br>
+<br>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=eeearl&show_icons=true&hide_border=true)
 
 <br>
